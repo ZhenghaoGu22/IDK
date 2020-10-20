@@ -23,7 +23,7 @@ while True:
       counter += 1
     if each_word == "tired":
       feelings_list.append("tired")
-      encouragement_list.append("you are stronger than you think")
+      encouragement_list.append("you are gay")
       counter += 1
 
   if counter == 0:
